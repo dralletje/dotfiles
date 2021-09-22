@@ -1,0 +1,1 @@
+sh installers/install-julia.sh

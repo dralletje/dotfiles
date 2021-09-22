@@ -1,0 +1,7 @@
+*
+
+!README.md
+!install.sh
+!installers
+!installers/**/*
+!.gitignore
